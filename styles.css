@@ -1,0 +1,19 @@
+img {
+    width: 300px;
+}
+
+a:hover { 
+  background-color: yellow;
+}
+#image {
+    display: none;
+}
+#petal {
+    display: none;
+}
+#hidden {
+    display: none;
+}
+body {
+    text-align: center;
+}
